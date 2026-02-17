@@ -1,4 +1,4 @@
-package com.example.collegeschedule.ui.notifications
+package com.example.collegeschedule.ui.settings
 
 import android.os.Bundle
 import android.view.LayoutInflater

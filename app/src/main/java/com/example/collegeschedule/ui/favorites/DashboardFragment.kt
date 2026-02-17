@@ -1,4 +1,4 @@
-package com.example.collegeschedule.ui.dashboard
+package com.example.collegeschedule.ui.favorites
 
 import android.os.Bundle
 import android.view.LayoutInflater
